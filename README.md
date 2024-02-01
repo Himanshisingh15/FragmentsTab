@@ -47,6 +47,8 @@ ViewPager
 Content Providers
 
 # Screenshots
+![image](https://github.com/Himanshisingh15/FragmentsTab/assets/145185670/b96bbe41-a351-4b9f-abcf-a45abdd70ed0)
+![image](https://github.com/Himanshisingh15/FragmentsTab/assets/145185670/f09db09c-cc90-46df-a86b-22b492033da9)
 
 # Contact
 singhimanshi2003@gmail.com
